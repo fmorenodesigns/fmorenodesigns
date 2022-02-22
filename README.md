@@ -8,9 +8,9 @@ I am web developer with passion for pixel-perfect visuals. My career started as 
 
 #### Projects
 I love creating. So in my spare time, I try to find opportunities to make cool things on the web. Here's some of the projects I've worked on, recently:
-- [King of the Town](https://kingofthetown.com)
+- [King of the Town](https://kingofthetown.com) (co-author)
+- [Subtitulamos.TV](https://subtitulamos.tv) (co-author)
 - [The Social Spin](https://thesocialspin.fmoreno.me)
-- [Subtitulamos.TV](https://subtitulamos.tv)
 
 
 Got curious? Take a look at my **very outdated** portfolio at [fmoreno.me](https://fmoreno.me)
