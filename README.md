@@ -1,16 +1,16 @@
-### Hi there 👋
+### `Hello world 👋`
 
-<!--
-**fmorenodesigns/fmorenodesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Who am I?
+I am web developer with passion for pixel-perfect visuals. My career started as a graphic/visual designer and progressively evolved into full-stack web-developer.
 
-Here are some ideas to get you started:
+#### Where do I work right now?
+[Oda Norge](https://oda.com) – Norway's leading online grocery store 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects
+I love creating. So in my spare time, I try to find opportunities to make cool things on the web. Here's some of the projects I've worked on, recently:
+- [King of the Town](https://kingofthetown.com)
+- [The Social Spin](https://thesocialspin.fmoreno.me)
+- [Subtitulamos.TV](https://subtitulamos.tv)
+
+
+Got curious? Take a look at my **very outdated** portfolio at [fmoreno.me](https://fmoreno.me)
