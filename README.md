@@ -14,8 +14,5 @@ I love creating. So in my spare time, I try to find opportunities to make cool t
 - [Subtitulamos.TV](https://subtitulamos.tv) (co-author) 
 - [The Social Spin](https://thesocialspin.fmoreno.me)
 
-##### Others
-
-
-
+#### Other stuff
 Got curious? Take a look at my **very outdated** portfolio at [fmoreno.me](https://fmoreno.me)
