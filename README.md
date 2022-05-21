@@ -15,4 +15,4 @@ I love creating. So in my spare time, I try to find opportunities to make cool t
 - [The Social Spin](https://thesocialspin.fmoreno.me)
 
 #### Other stuff
-Got curious? Take a look at my **very outdated** portfolio at [fmoreno.me](https://fmoreno.me)
+Got curious? Take a look at my online CV and portfolio at [fmoreno.me](https://fmoreno.me)
