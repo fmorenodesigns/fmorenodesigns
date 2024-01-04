@@ -13,6 +13,7 @@ I love creating, so in my spare time I try to find opportunities to make cool th
 - [King of the Town](https://kingofthetown.com) (co-author) 
 - [Subtitulamos.TV](https://subtitulamos.tv) (co-author) 
 - [The Social Spin](https://thesocialspin.fmoreno.me)
+- [Speedometer](https://speedometer.fmoreno.me/) 
 
 #### Other stuff
 Got curious? Take a look at my online CV and portfolio at [fmoreno.me](https://fmoreno.me)
