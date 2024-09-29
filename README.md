@@ -10,7 +10,7 @@ I am web a developer with passion for pixel-perfect visuals. My career started a
 I love creating, so in my spare time I try to find opportunities to make cool things on the web. Here's some of the projects I've worked on, recently:
 
 - [AimPew](https://aimpew.com)
-- [King of the Town](https://kingofthetown.com) (co-author) 
+- [King of the Town](https://kot.fmoreno.me) (co-author) 
 - [Subtitulamos.TV](https://subtitulamos.tv) (co-author) 
 - [The Social Spin](https://thesocialspin.fmoreno.me)
 - [Speedometer](https://speedometer.fmoreno.me/) 
